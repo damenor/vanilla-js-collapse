@@ -63,6 +63,14 @@ body {
   width: 100%;
 }
 
+#container-buttons #remove-all {
+  color: var(--color-danger);
+}
+
+#container-buttons #add-collapse {
+  color: var(--color-success);
+}
+
 button {
   margin-bottom: 8px;
   padding: 8px;
